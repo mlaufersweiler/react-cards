@@ -1,0 +1,43 @@
+
+.container{
+    height: 400px;
+    width: 650px;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 10%;
+    margin-top: 20%;
+}
+.top-right-id {
+    margin: 0px;
+    margin-left: 80%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.name{
+    width: 200px;
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 2px solid blue;
+}
+.bold{
+    font-weight: 900;
+}
+.location{
+    margin-right: 60%;
+    font-size: 12px;
+    font-weight: 600;
+}
+.favorite-movies{
+    margin-right: 65%;
+    font-weight: 600;
+    font-size: 18px;
+}
+.favorite-movies{
+    margin-top: 10px;
+}
+.movies {
+    font-size: 12px;
+    margin-left: 25px;
+}

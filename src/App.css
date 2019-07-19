@@ -1,0 +1,13 @@
+html {
+  min-height: 100%
+}
+body {
+  margin: 0px;
+  height: 100%;
+  background-color: #222222;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

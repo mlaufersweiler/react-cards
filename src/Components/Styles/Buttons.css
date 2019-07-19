@@ -1,0 +1,14 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+}
+.buttons > button {
+    color: white;
+    background: transparent;
+    border: none;  
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+}
